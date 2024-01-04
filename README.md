@@ -38,4 +38,19 @@ Neural Networks: Zero to Hero: https://www.youtube.com/playlist?list=PLAqhIrjkxb
 * https://www.youtube.com/watch?v=6niqTuYFZLQ (Stanford)
 * https://stanford.edu/~shervine/l/tr/teaching/cs-230/cheatsheet-recurrent-neural-networks
 
+### Ders 12 ve 13: CapsNET - Kapsul Aglar
+
+* https://www.youtube.com/watch?v=vkheAJgKJa4 (Ayyuce Kizrak)
+* https://www.youtube.com/watch?v=pPN8d0E3900 (Aurelien Geron)
+* https://www.youtube.com/watch?v=ZsbTwuE9R2A (CAPSULE NETWORKS - INTRODUCTION | Art of Visualisation)
+* https://www.youtube.com/watch?v=sGK5mhJSzVg (Capsule Networks Explained - Why Using Pooling is a Bad Idea | DataMlistic)
+
+
+### Ders 14: Transfer Learning
+
+* https://www.youtube.com/watch?v=DyPW-994t7w (Assembly AI)
+* https://www.youtube.com/watch?v=BqqfQnyjmgg (HuggingFace)
+* https://www.youtube.com/watch?v=K0lWSB2QoIQ (Patrick Loeber - PyTorch)
+
+
   
